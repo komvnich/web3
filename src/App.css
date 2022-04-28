@@ -1,0 +1,16 @@
+*, *:before, *:after{
+    box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,p,span,
+div,html,body,form,
+ul,ol,a{
+    margin: 0;
+    padding: 0;
+
+    font-family: "Montserrat", sans-serif;
+}
+
+body{
+    background-color: #19232b;
+}

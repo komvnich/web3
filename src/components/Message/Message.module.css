@@ -1,0 +1,14 @@
+.message{
+    font-size: 18px;
+    color: #fff;
+
+    margin: 20px 0;
+}
+
+.onSuccess{
+    color: green;
+}
+
+.onError{
+    color: darkred;
+}

@@ -1,0 +1,16 @@
+.buttonConnect{
+    background-color: #095778;
+    width: 200px;
+    min-height: 40px;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    border-radius: 7px;
+    transition: 0.3s ease-in;
+}
+
+.buttonConnect:hover{
+    transition: 0.3s ease-in;
+    background-color: #4a7384;
+}

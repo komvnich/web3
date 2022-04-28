@@ -1,0 +1,32 @@
+{
+  "nft": [
+    {
+      "id": "1",
+      "type": "Rare",
+      "name": "NFT",
+      "price": "200",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NFT_Icon.png/640px-NFT_Icon.png"
+    },
+    {
+      "id": "2",
+      "type": "Rare",
+      "name": "NFT",
+      "price": "200",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NFT_Icon.png/640px-NFT_Icon.png"
+    },
+    {
+      "id": "3",
+      "type": "Rare",
+      "name": "NFT",
+      "price": "200",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NFT_Icon.png/640px-NFT_Icon.png"
+    },
+    {
+      "id": "4",
+      "type": "Rare",
+      "name": "NFT",
+      "price": "200",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NFT_Icon.png/640px-NFT_Icon.png"
+    }
+  ]
+}
